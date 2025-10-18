@@ -30,7 +30,9 @@ Team Roles
 5. Business Analyst: A business analyst analyzes stakeholders feedback to help a client create what their wants look like and aligns a customer's vision with waht a development team is producing.
 6. Project Manager(PM): A project manager is entitled for distributing tasks across team members, planning work activities, and updating project status.
 7. UI/UX Designer: They create user stories for the best user experience.
+
 Database Design
+
 1. Users: Register new users, authenticate, and manage user profiles.
 2. Properties: Create, update, retrieve, and delete property listings.
 3. Bookings: Make, update, and manage bookings, including check-in and check-out details.
@@ -38,6 +40,7 @@ Database Design
 5. Payments: Handle payment transactions related to bookings.
 
 Feature Breakdown
+
 1. User Management: Implement a secure system for user registration, authentication, and profile management.
 2. Property Management: Develop features for property listing creation, updates, and retrieval.
 3. Booking System: Create a booking mechanism for users to reserve properties and manage booking details.
@@ -46,6 +49,7 @@ Feature Breakdown
 5. Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
 API Security
+
 1. Authentication: Verifies the identity of users or systems accessing the API.
 Implementation: Use token-based authentication like JSON Web Token, OAuth 2.0, or API keys.
 
