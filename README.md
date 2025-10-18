@@ -39,6 +39,10 @@ Database Design
 4. Reviews: Post and manage reviews for properties.
 5. Payments: Handle payment transactions related to bookings.
 
+Relationship:
+A user can have many properties.
+A user can make one payment.
+
 Feature Breakdown
 
 1. User Management: Implement a secure system for user registration, authentication, and profile management.
