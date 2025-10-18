@@ -27,7 +27,9 @@ Team Roles
 2. Database Administrator: Manages database design, indexing, and optimizations.
 3. DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
 4. QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
-
+5. Business Analyst: A business analyst analyzes stakeholders feedback to help a client create what their wants look like and aligns a customer's vision with waht a development team is producing.
+6. Project Manager(PM): A project manager is entitled for distributing tasks across team members, planning work activities, and updating project status.
+7. UI/UX Designer: They create user stories for the best user experience.
 Database Design
 1. Users: Register new users, authenticate, and manage user profiles.
 2. Properties: Create, update, retrieve, and delete property listings.
