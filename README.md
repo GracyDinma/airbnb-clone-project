@@ -23,10 +23,10 @@ CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
 Team Roles
 
-Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
-Database Administrator: Manages database design, indexing, and optimizations.
-DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
-QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+1. Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
+2. Database Administrator: Manages database design, indexing, and optimizations.
+3. DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
+4. QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
 
 Database Design
 1. Users: Register new users, authenticate, and manage user profiles.
@@ -36,12 +36,12 @@ Database Design
 5. Payments: Handle payment transactions related to bookings.
 
 Feature Breakdown
-User Management: Implement a secure system for user registration, authentication, and profile management.
-Property Management: Develop features for property listing creation, updates, and retrieval.
-Booking System: Create a booking mechanism for users to reserve properties and manage booking details.
-Payment Processing: Integrate a payment system to handle transactions and record payment details.
-Review System: Allow users to leave reviews and ratings for properties.
-Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
+1. User Management: Implement a secure system for user registration, authentication, and profile management.
+2. Property Management: Develop features for property listing creation, updates, and retrieval.
+3. Booking System: Create a booking mechanism for users to reserve properties and manage booking details.
+4. Payment Processing: Integrate a payment system to handle transactions and record payment details.
+4. Review System: Allow users to leave reviews and ratings for properties.
+5. Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
 API Security
 1. Authentication: Verifies the identity of users or systems accessing the API.
